@@ -65,7 +65,7 @@ const Header = () => {
               </h3>
 
               <p className="text-sm text-slate-500">
-                Level 2 Analyst
+                Security Team
               </p>
 
             </div>
